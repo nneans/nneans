@@ -9,7 +9,7 @@ I'm a master's student in Industrial Data Engineering at [BAE LAB](https://pnuba
 - Process Anomaly Detection
 - Agentic AI for Process Mining
 
-## Publications
+## Papers
 
 - **PaCT: Patch-Based Multi-Channel Transformer for Predictive Process Monitoring**  
   **Mingyun Kang**, Yongjae Lee, Kibeom Park, Hyerim Bae  
