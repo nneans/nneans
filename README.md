@@ -19,7 +19,7 @@ I'm a master's student in Industrial Data Engineering at [BAE LAB](https://pnuba
   Yongjae Lee, **Mingyun Kang**, Hyerim Bae  
   *ASPAI 2026* — Best Paper Runner-up Award
 
-## 🎉 Awards
+## Awards
 
 - <a><img src="./assets/award-excellence.svg" alt="우수상" align="absmiddle"></a> KOSSDA 대학생 데이터 시각화 공모전 — 2026
 - <a><img src="./assets/award-merit.svg" alt="장려상" align="absmiddle"></a> 보훈 공공데이터·AI 활용 아이디어 공모전 — 2026
